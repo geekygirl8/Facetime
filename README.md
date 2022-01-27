@@ -1,1 +1,1 @@
-# Zoom-Clone
+Face time is a real time vedio calling and chat application which supports more than 4 people to call simultaneously. The efficiency depemds on the server anfd network bandwidth. Its is really cool application to connect with friends and family instantaneously.
